@@ -93,5 +93,3 @@ This project and its source code may **not** be copied, modified, or distributed
 ---
 
 🌟 *If you believe in making sales work smarter, give this repo a ⭐ and watch this space for updates!*
-
-```
