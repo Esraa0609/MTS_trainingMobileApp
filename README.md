@@ -1,10 +1,11 @@
-# 📱 Sales Representative Mobile Application 🚀  
+# 📱 SalesMate — Your Pocket Sales Assistant 🚀  
 **Empowering sales reps with real-time insights and effortless order management.**
 
 Welcome to **SalesMate**, a Flutter-powered mobile application designed to simplify life for sales representatives.  
 From **live inventory tracking** to **order management** and **delivery status updates**, SalesMate puts everything you need right in your pocket.
 
-![download](https://github.com/user-attachments/assets/2207315d-f9ea-4bad-89f5-27923bcd14cb)
+<img width="390" height="280" alt="image" src="https://github.com/user-attachments/assets/811c07cf-d375-441d-9e27-97b964952fe1" />
+
 ---
 
 ## 📜 About  
