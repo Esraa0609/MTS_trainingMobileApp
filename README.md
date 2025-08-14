@@ -4,7 +4,7 @@
 Welcome to **SalesMate**, a Flutter-powered mobile application designed to simplify life for sales representatives.  
 From **live inventory tracking** to **order management** and **delivery status updates**, SalesMate puts everything you need right in your pocket.
 
-<img width="390" height="280" alt="image" src="https://github.com/user-attachments/assets/811c07cf-d375-441d-9e27-97b964952fe1" />
+<img width="2000" height="1334" alt="image" src="https://github.com/user-attachments/assets/25c4c9f5-06b6-4d6f-8194-7810bc0b508b" />
 
 ---
 
