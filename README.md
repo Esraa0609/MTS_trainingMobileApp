@@ -1,4 +1,4 @@
-# 📱 SalesMate — Your Pocket Sales Assistant 🚀  
+# 📱 SalesMate — Your Pocket Sales Assistant  
 **Empowering sales reps with real-time insights and effortless order management.**
 
 Welcome to **SalesMate**, a Flutter-powered mobile application designed to simplify life for sales representatives.  
